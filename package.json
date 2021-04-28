@@ -7,7 +7,11 @@
   "module": "build/module/index.js",
   "repository": "https://github.com/YOUR_GITHUB_USER_NAME/use-fixed",
   "license": "MIT",
-  "keywords": ["react", "react-hooks", "callback"],
+  "keywords": [
+    "react",
+    "react-hooks",
+    "callback"
+  ],
   "author": {
     "name": "Aakash More",
     "email": "moreakash77@hotmail.com"
