@@ -2,12 +2,12 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Docusaurus Tutorial',
+      label: 'Use Fixed',
       items: [
         'introduction',
         'usage',
-        'create-a-blog-post',
-        'markdown-features',
+        'implementation',
+        'rules',
         'thank-you',
       ],
     },
