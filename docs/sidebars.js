@@ -8,7 +8,6 @@ module.exports = {
         'usage',
         'implementation',
         'rules',
-        'thank-you',
       ],
     },
   ],

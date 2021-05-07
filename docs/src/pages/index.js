@@ -6,7 +6,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
-const features = [
+const disableFeatures = true;
+const features = !disableFeatures && [
   {
     title: 'Easy to Use',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
